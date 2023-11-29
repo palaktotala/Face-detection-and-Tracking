@@ -1,6 +1,6 @@
 # Face detection, recognition and Tracking
 
-FOr detatailed information - kindly refer to project report.pdf
+*For detatailed information - kindly refer to project report.pdf*
 
 In this project, I have worked towards the following two targets:
 
